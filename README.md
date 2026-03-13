@@ -9,11 +9,6 @@
 ## Project Overview
 This repository contains a full C implementation of the classic **Tetris** puzzle game, specifically designed for the **LandTiger (LPC1768)** ARM-based development board. This project was developed as part of the **Computer Architectures** course within the MSc in Computer Engineering program at **Politecnico di Torino**.
 
-The game features standard Tetris mechanics, including:
-* Random piece generation (Mersenne Twister or Timer-based seed).
-* Real-time LCD rendering and score tracking.
-* Hardware-driven controls (Joystick/Buttons).
-
 ---
 
 ## License
